@@ -1,0 +1,1 @@
+/Volumes/Data/skeptycal/Documents/reference/templates/perma_templates/CONTRIBUTING.md

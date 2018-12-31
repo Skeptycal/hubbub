@@ -1,0 +1,22 @@
+{
+  "name": "git_repo_template",
+  "version": "1.0.0",
+  "description": "Setup basic code project, including PHP and Markdown support.",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "template",
+    "git",
+    "php",
+    "markdown",
+    "vscode",
+    "node",
+    "js",
+    "css",
+    "data"
+  ],
+  "author": "Michael Treanor",
+  "license": "MIT"
+}

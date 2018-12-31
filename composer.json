@@ -1,0 +1,15 @@
+{
+    "name": "skeptycal/git_repo_template",
+    "description": "Setup basic coding project with php and markdown support",
+    "type": "project",
+    "require": {
+        "michelf/php-markdown": "^1.8"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michael Treanor",
+            "email": "skeptycal@gmail.com"
+        }
+    ]
+}
