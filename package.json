@@ -1,6 +1,6 @@
 {
   "name": "git_repo_template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Setup basic code project, including PHP and Markdown support.",
   "main": "index.php",
   "scripts": {
@@ -18,5 +18,13 @@
     "data"
   ],
   "author": "Michael Treanor",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skeptycal/git_repo_template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Skeptycal/git_repo_template/issues"
+  },
+  "homepage": "https://github.com/Skeptycal/git_repo_template#readme"
 }
