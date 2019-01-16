@@ -1,9 +1,10 @@
 {
-    "name": "skeptycal/git_repo_template",
-    "description": "Setup basic coding project with php and markdown support",
+    "name": "skeptycal/hubbub",
+    "description": "My Personal GitHub Workflow Utility",
     "type": "project",
     "require": {
-        "michelf/php-markdown": "^1.8"
+        "michelf/php-markdown": "^1.8",
+        "league/oauth2-server": "^7.3"
     },
     "license": "MIT",
     "authors": [
